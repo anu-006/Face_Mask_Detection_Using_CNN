@@ -1,6 +1,7 @@
-tensorflow
-opencv-python
-numpy
+# Tested with Python 3.11
+tensorflow==2.16.1
+opencv-python==4.11.0.86
+numpy==1.26.4
 pandas
 matplotlib
 seaborn

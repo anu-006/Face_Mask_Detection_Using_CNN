@@ -1,0 +1,24 @@
+
+# Virtual environments
+.venv/
+venv/
+myenv/
+maskenv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Large trained model (stored separately)
+mask_model.keras
+
+# Secrets and environment variables
+.env
+kaggle.json
+
+# OS-generated files
+Thumbs.db
+.DS_Store
